@@ -5,7 +5,8 @@
 			"version": "1.7.1"
 		}
 	},
-	"dependencies": {
+	"dependencies": {},
+	"devDependencies": {
 		"angular2": "2.0.0-beta.9",
 		"nativescript-angular": "0.0.40",
 		"nativescript-intl": "0.0.2",
@@ -16,9 +17,7 @@
 		"rxjs": "5.0.0-beta.2",
 		"tns-core-modules": "^2.0.0-angular-3",
 		"url": "0.10.3",
-		"zone.js": "0.5.15"
-	},
-	"devDependencies": {
+		"zone.js": "0.5.15",
 		"nativescript-dev-typescript": "^0.3.1",
 		"nativescript-dev-webpack": "0.0.9",
 		"shelljs": "^0.5.3",
